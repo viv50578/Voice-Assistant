@@ -26,5 +26,8 @@
 ### Jokes & 2048 Game
 ![Jokes & 2048](/Images/Jokes&2048.png)
 
+### News
+![News](/Images/News.png)
+
 ### 2048 Game
 ![Pizza Section](/Images/2048_Game.png)
