@@ -1,6 +1,6 @@
 # Voice-Assistant
 
-## Meet Lucy, your friendly Voice Assistant designed to simplify your daily tasks, keep you entertained with jokes and games as well as keep you up-to-date with the latest news.
+### Meet Lucy, your friendly Voice Assistant designed to simplify your daily tasks, keep you entertained with jokes and games as well as keep you up-to-date with the latest news.
 
 ## Features
 
