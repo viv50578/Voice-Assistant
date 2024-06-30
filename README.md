@@ -30,4 +30,4 @@
 ![News](/Images/News.png)
 
 ### 2048 Game
-![Pizza Section](/Images/2048_Game.png)
+![2048 Game](/Images/2048_Game.png)
